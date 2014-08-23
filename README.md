@@ -10,3 +10,6 @@ reduced to the bare minimum to build a rpm for centos.
 This ought to work for future versions as long as they continue to ship a 
 .tar.gz and don't revert to a .jar. For a new version just change $VERSION
 and increment $EPOCH
+
+To use this you need to grab a logstash .tar.gz (tested with 1.4.2) and put 
+it in the same directory as the build.sh
