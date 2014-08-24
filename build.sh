@@ -13,7 +13,7 @@
 #
 
 VERSION="1.4.2"
-RELEASE="0"
+RELEASE="1"
 EPOCH="1"
 URL="http://logstash.net"
 DESCRIPTION="An extensible logging pipeline"
